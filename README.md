@@ -1,4 +1,4 @@
-## <p align="center">Hello there, I'm Dhairya Parekh 🌎</p>
+## <p align="center">Hello, I'm Dhairya Parekh 🌎</p>
 
 ### About
 
@@ -17,7 +17,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dhairyap99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dhairya's GitHub Stats" />
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ### 🛠 Programming Languages & Tools
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
@@ -28,7 +28,7 @@
 ![VSCode](http://img.shields.io/badge/Tools-VS_Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue&color=2bbc8a)
 ![AWS](https://img.shields.io/badge/Cloud-Amazon%20Web%20Services-informational?style=for-the-badge&logo=Amazon-aws&logoColor=cyan&color=2bbc8a)
 
-### 📫 Connect with me
+### 📫 Find me here
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhairya.parekh09@gmail.com)](mailto:dhairya.parekh09@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhairyaparekh/)](https://www.linkedin.com/in/dhairyaparekh/) 
 [![Linkedin](https://img.shields.io/badge/-HackerRank-29b75f?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/dhairyaparekh/)](https://www.hackerrank.com/dhairyaparekh) 

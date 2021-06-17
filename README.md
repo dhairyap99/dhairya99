@@ -22,7 +22,7 @@
 ### 🛠 Programming Languages & Tools
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![MySQL](https://img.shields.io/badge/Code-SQL-000000?style=for-the-badge&logo=MySQL&logoColor=blue&color=2bbc8a)
-![MSExcel](https://img.shields.io/badge/Tools-MS%20Excel-informational?style=for-the-badge&logo=msexcel&logoColor=white&color=2bbc8a)
+![MSExcel](https://img.shields.io/badge/Tools-MS%20Excel-informational?style=for-the-badge&logo=Microsoft-excel&logoColor=white&color=2bbc8a)
 ![Tableau](https://img.shields.io/badge/Tools-Tableau%20Public-informational?style=for-the-badge&logo=tableau&logoColor=white&color=2bbc8a)
 ![GitHub](http://img.shields.io/badge/Tools-Github-000000?style=for-the-badge&logo=Github&logoColor=white&color=2bbc8a)
 ![VSCode](http://img.shields.io/badge/Tools-VS_Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue&color=2bbc8a)
